@@ -19,7 +19,7 @@ GitHub Stats URL:-
 radical
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mleys&theme=highcontrast)
 ***
-dark
+<!-- dark
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mleys&theme=dark)
 ***
 tokyo
@@ -29,4 +29,4 @@ onedard
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mleys&theme=onedark)
 ***
 synth
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mleys&theme=synthwave)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mleys&theme=synthwave) -->
