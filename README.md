@@ -17,12 +17,16 @@ Here are some ideas to get you started:
 
 GitHub Stats URL:-
 radical
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mleys&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mleys&theme=highcontrast)
+***
 dark
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mleys&theme=dark)
+***
 tokyo
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mleys&theme=tokyonight)
+***
 onedard
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mleys&theme=onedark)
+***
 synth
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mleys&theme=synthwave)
