@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mleys&theme=cobalt)
 ***
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mleys)](https://github.com/mleys/github-readme-stats)
